@@ -1,0 +1,16 @@
+/* components/Header/Header.css */
+header {
+    background-color: #f8f8f8;
+    padding: 1rem;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 15px;
+  }
+  
